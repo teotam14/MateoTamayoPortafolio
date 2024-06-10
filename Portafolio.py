@@ -160,9 +160,9 @@ if selected == 'Acerca de':
   <div style="position: absolute; top: 95%; left: 50%; transform: translate(-50%, -50%); width: 20px; height: 20px; border-radius: 50%; background-color: #4682B4; border: 2px solid #fff;"></div>
   <div style="position: absolute; top: 15%; left: 60%; transform: translate(-50%, -50%); font-size: 16px; color: white; text-align: center;">Analista de datos</div>
   <div style="position: absolute; top: 20%; left: 62%; transform: translate(-50%, -50%); font-size: 12px; color: white; text-align: center;">Perez y cardona: Compras</div>
-  <div style="position: absolute; top: 42%; left: 42%; transform: translate(-50%, -50%); font-size: 16px; color: white; text-align: center;">Practicante</div>
+  <div style="position: absolute; top: 42%; left: 39%; transform: translate(-50%, -50%); font-size: 16px; color: white; text-align: center;">Practicante analítica</div>
   <div style="position: absolute; top: 47%; left: 37%; transform: translate(-50%, -50%); font-size: 12px; color: white; text-align: center;">Almacenes Flamingo: Retail</div>
-  <div style="position: absolute; top: 72%; left: 65%; transform: translate(-50%, -50%); font-size: 16px; color: white; text-align: center;">Analista analítica comercial</div>
+  <div style="position: absolute; top: 72%; left: 65%; transform: translate(-50%, -50%); font-size: 15px; color: white; text-align: center;">Analista planeación comercial</div>
   <div style="position: absolute; top: 77%; left: 58%; transform: translate(-50%, -50%); font-size: 12px; color: white; text-align: center;">Cueros Nemiza</div>
 </div>
 """, unsafe_allow_html=True)
@@ -187,8 +187,8 @@ if selected == 'Acerca de':
         st.write(f"<span style='color: #4682B4;font-size: 22px;'>&#10003;</span> &nbsp;<span style='font-size: 15px;'>Consultoria solidaria U de A: Automatización sitema inventarios</span>", unsafe_allow_html=True)
         st.write(f"<span style='color: #4682B4;font-size: 22px;'>&#10003;</span> &nbsp;<span style='font-size: 15px;'>Curso A2: Python para ciencia de datos</span>", unsafe_allow_html=True)
         st.write(f"<span style='color: #4682B4;font-size: 22px;'>&#10003;</span> &nbsp;<span style='font-size: 15px;'>Curso LinkedIn Learning: SQL Server 2019</span>", unsafe_allow_html=True)
-        st.write(f"<span style='color: #4682B4;font-size: 22px;'>&#10003;</span> &nbsp;<span style='font-size: 15px;'>Actualmente: Profundizando mis conocimientos y habilidades en deep learning con python</span>", unsafe_allow_html=True)
-        st.write(f"<span style='color: #4682B4;font-size: 20px;'>&#9733;</span> &nbsp;<span style='font-size: 17px;'>Proximamente: Esp. Ciencia datos y analítica </span>", unsafe_allow_html=True)
+        st.write(f"<span style='color: #4682B4;font-size: 22px;'>&#10003;</span> &nbsp;<span style='font-size: 15px;'>Actualmente: Profundizando mis conocimientos y habilidades en Deep Learning con python</span>", unsafe_allow_html=True)
+        st.write(f"<span style='color: #4682B4;font-size: 20px;'>&#9733;</span> &nbsp;<span style='font-size: 17px;'>Próximamente: Esp. Ciencia datos y analítica </span>", unsafe_allow_html=True)
 
 #Imagenes proyectos
 imagen = ['Imagenes/Recomendaciones.jpg','Imagenes/Retail.jpg','Imagenes/Dashboard.jpg','Imagenes/Exploratorio.jpg']
