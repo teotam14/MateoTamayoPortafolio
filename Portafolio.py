@@ -187,7 +187,7 @@ if selected == 'Acerca de':
         st.write(f"<span style='color: #4682B4;font-size: 22px;'>&#10003;</span> &nbsp;<span style='font-size: 15px;'>Consultoria solidaria U de A: Automatización sitema inventarios</span>", unsafe_allow_html=True)
         st.write(f"<span style='color: #4682B4;font-size: 22px;'>&#10003;</span> &nbsp;<span style='font-size: 15px;'>Curso A2: Python para ciencia de datos</span>", unsafe_allow_html=True)
         st.write(f"<span style='color: #4682B4;font-size: 22px;'>&#10003;</span> &nbsp;<span style='font-size: 15px;'>Curso LinkedIn Learning: SQL Server 2019</span>", unsafe_allow_html=True)
-        st.write(f"<span style='color: #4682B4;font-size: 22px;'>&#10003;</span> &nbsp;<span style='font-size: 15px;'>Actualmente: Profundizando mis conocimientos y habilidades en Deep Learning con python</span>", unsafe_allow_html=True)
+        st.write(f"<span style='color: #4682B4;font-size: 22px;'>&#10003;</span> &nbsp;<span style='font-size: 15px;'>Actualmente: Aprendiendo sobre Deep Learning y Big Data</span>", unsafe_allow_html=True)
         st.write(f"<span style='color: #4682B4;font-size: 20px;'>&#9733;</span> &nbsp;<span style='font-size: 17px;'>Próximamente: Esp. Ciencia datos y analítica </span>", unsafe_allow_html=True)
 
 #Imagenes proyectos
